@@ -1,2 +1,3 @@
 # anime-quotes-generator
-Generator of quotes of anime series.
+
+Generate quotes of anime series.
