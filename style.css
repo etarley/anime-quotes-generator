@@ -16,13 +16,13 @@ button {
   display: block;
   margin: 20px auto;
 }
-#quote-section {
-  display: none;
-}
 #character {
   font-style: oblique;
 }
 #anime-name {
   font-style: oblique;
   text-transform: uppercase;
+}
+#anime-selection {
+  display: none;
 }
